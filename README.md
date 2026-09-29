@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋 I'm Gabe Afol
+## Hi 👋 I'm Gabriel Afolabi
 
 **Data Science &bull; Machine Learning &bull; Applied Analytics**
 
